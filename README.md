@@ -44,6 +44,7 @@ We considered multiple routes for designing this game:
 
 1. Clone this project and `cd color-wars`
 2. Install dependencies: `npm install`
+3. Install jQuery: `npm install` (This is a strange behavior that I am looking into. For now running `npm install` twice works.)
 3. Build the project: `npm run build`
 4. Fire up the dev server: `npm start`
 
